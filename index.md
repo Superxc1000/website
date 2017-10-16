@@ -1,38 +1,293 @@
-# Gregory P. Winter
-## Analyzing data to make better and informed business decisions
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/Superxc1000/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-### Markdown
+    <title>Gregory P. Winter</title>
+    <link rel="shortcut icon" href="http://binnie869.github.io/img/a-icon.ico">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="./website_files/bootstrap.min.css" type="text/css">
 
-```markdown
-Syntax highlighted code block
+    <!-- Custom Fonts -->
+    <link href="./website_files/css" rel="stylesheet" type="text/css">
+    <link href="./website_files/css(1)" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="./website_files/font-awesome.min.css" type="text/css">
 
-# Header 1
-## Header 2
-### Header 3
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="./website_files/animate.min.css" type="text/css">
 
-- Bulleted
-- List
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="./website_files/creative.css" type="text/css">
 
-1. Numbered
-2. List
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
 
-**Bold** and _Italic_ and `Code` text
+</head>
 
-[Link](url) and ![Image](src)
-```
+<body id="page-top">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top affix-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="http://binnie869.github.io/#page-top">Anubhav Gupta</a>
+            </div>
 
-### Jekyll Themes
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="">
+                        <a class="page-scroll" href="http://binnie869.github.io/#about">About</a>
+                    </li>
+                    <li class="">
+                        <a class="page-scroll" href="http://binnie869.github.io/#projects">Projects</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="http://binnie869.github.io/resume/AnubhavGupta_Resume.pdf" target="_blank">Resume</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="http://binnie869.github.io/#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Superxc1000/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1 style="font-size: 65px;">HI! I'M Anubhav</h1>
+                <hr>
+                <p>Analyzing data to make better and informed business decisions</p>
+                <a href="http://binnie869.github.io/#about" class="btn btn-primary btn-xl page-scroll">About me</a>
+            </div>
+        </div>
+    </header>
 
-### Contact
+    <section class="bg-primary" id="about" style="height: 100%">
+        <div class="container">
+            <img src="./website_files/anubhav.jpg" class="img-responsive" alt="" style="margin :auto">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <hr class="light">
+                    <p class="text-faded">Greg is motivated by the belief that data can be used to make better decisions. He wants to be able to make it easier for people to understand code and use data efficiently. Anubhav believes in open data and open source software. Anubhav primarily uses Python.</p>
+                    <p class="text-faded">Working as a Technical Product Manager at Cloud Raxak, Anubhav is currently helping organizations understand the importance of automated and proactive cloud security and compliance. Recently, Anubhav graduated from the School of Information at UC Berkeley where he explored various facets of data science and user research.</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
-Email me: <a href="mailto:gregorypwinter@gmail.com">gregorypwinter@gmail.com</a> or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    <section class="no-padding" id="projects">
+      <div class="container" style="padding-top: 20px">
+          <div class="row">
+              <div class="col-lg-12 text-center">
+                  <h2 class="section-heading">Projects</h2>
+                  <hr class="primary">
+              </div>
+          </div>
+      </div>
+        <div class="container-fluid">
+            <div class="row no-gutter">
+                <div class="col-lg-3 col-lg-offset-1 coldcol-sm-4">
+                    <div style="width :95%">
+                        <a href="http://binnie869.github.io/hydrobase.html" class="portfolio-box">
+                            <img src="./website_files/hydrobase.png" class="img-responsive" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                  <div class="project-category text-faded">
+                                      Internet of things
+                                  </div>
+                                    <div class="project-name">
+                                        Hydrobase
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <h3 style="text-align: center">Product Manager</h3><br>
+                        <p class="text-muted" style="font-size: small"> A control system and an analytics engine to help plants grow</p>
+                        <!--b class="text-muted">Accepted Poster at IEEE Viz Conference 2015!</b-->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-lg-offset-1 col-sm-4">
+                    <div style="width :95%">
+                        <a href="http://binnie869.github.io/jeopardy.html" class="portfolio-box">
+                            <img src="./website_files/jeopardy.png" class="img-responsive" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                  <div class="project-category text-faded">
+                                      Information Visualization
+                                  </div>
+                                    <div class="project-name">
+                                        This is Jeopardy!
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <h3 style="text-align: center">Info-Viz Engineer</h3><br>
+                        <p class="text-muted" style="font-size: small"> Get to know more about your favourite game show in a more visually appealing way.</p>
+                        <!--b class="text-muted">Accepted Poster at IEEE Viz Conference 2015!</b-->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-lg-offset-1 col-sm-4">
+                    <div style="width :95%">
+                        <a href="http://binnie869.github.io/nyce.html" class="portfolio-box">
+                            <img src="./website_files/NYCe.png" class="img-responsive" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
+                                        Data Mining and Analytcis
+                                    </div>
+                                    <div class="project-name">
+                                        NYCe Taxi
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <h3 style="text-align: center">Machine Learning Engineer</h3><br>
+                        <p class="text-muted" style="font-size: small">The best tool to predict the Tip of a New York Taxi cab driver.</p>
+                        <!--b class="text-muted">Pay Smart!</b-->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-lg-offset-1 col-sm-4">
+                    <div style="width :95%">
+                        <a href="http://binnie869.github.io/memeoke.html" class="portfolio-box">
+                            <img src="./website_files/memeoke.png" class="img-responsive" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
+                                        Web Architechture
+                                    </div>
+                                    <div class="project-name">
+                                        Memeoke
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <h3 style="text-align: center">Backend Developer</h3><br>
+                        <p class="text-muted" style="font-size: small">The place to be if you want to sing your heart out to amazing lyrics and funny GIFs.</p>
+                        <!--b class="text-muted">Share your happiness!</b-->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-lg-offset-1 col-sm-4">
+                    <div style="width :95%">
+                        <a href="http://binnie869.github.io/travelbites.html" class="portfolio-box">
+                            <img src="./website_files/travelbites.png" class="img-responsive" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
+                                        User Interface Design and Development
+                                    </div>
+                                    <div class="project-name">
+                                        Travel Bites
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <h3 style="text-align: center">UX Reseacher</h3><br>
+                        <p class="text-muted" style="font-size: small">The app that allows you to plan your travel iternary around food.</p>
+                        <!--b class="text-muted">A fun user research project with great people with love for food!!</b-->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-lg-offset-1 col-sm-4">
+                    <div style="width :95%">
+                        <a href="http://binnie869.github.io/anlp.html" class="portfolio-box">
+                            <img src="./website_files/anlp.png" class="img-responsive" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
+                                        Natural Language Processing
+                                    </div>
+                                    <div class="project-name">
+                                        Restaurant Ambience Tagger
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <h3 style="text-align: center">NLP Engineer</h3><br>
+                        <p class="text-muted" style="font-size: small">Classification model to assign these tags to restaurants based on non-linguistic as well as linguistic features.</p>
+                        <!--b class="text-muted">A fun user research project with great people with love for food!!</b-->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-lg-offset-1 col-sm-4">
+                    <div style="width :95%">
+                        <a href="http://binnie869.github.io/cookcounty.html" class="portfolio-box">
+                            <img src="./website_files/cookcounty.png" class="img-responsive" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
+                                        Applied Data Analytics Project
+                                    </div>
+                                    <div class="project-name">
+                                        Cook County Hospital
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <h3 style="text-align: center">Data Science Consultant</h3><br>
+                        <p class="text-muted" style="font-size: small"> Strategy and recommendations for John H Stroger Hospital in Chicago in light of Affordable Heath care Act.</p>
+                        <!--b class="text-muted">A fun user research project with great people with love for food!!</b-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Get In Touch!</h2>
+                    <hr class="primary">
+                </div>
+                <div class="col-lg-2 col-lg-offset-3 text-center">
+                    <a href="https://github.com/binnie869" class="fa fa-github fa-3x wow bounceIn" style="visibility: hidden; animation-name: none;"></a>
+                </div>
+                <div class="col-lg-2  text-center">
+                    <a href="https://www.linkedin.com/in/anubhavg1" class="fa fa-linkedin fa-3x wow bounceIn" style="visibility: hidden; animation-name: none;"></a>
+                </div>
+                <!--div class="col-lg-1 text-center">
+                    <a class="fa fa-phone fa-3x wow bounceIn"></i>
+                </div-->
+                <div class="col-lg-2 text-center">
+                    <a href="mailto:gregorypwinter@gmail.com" class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s" style="visibility: hidden; animation-delay: 0.1s; animation-name: none;"></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- jQuery -->
+    <script src="./website_files/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="./website_files/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="./website_files/jquery.easing.min.js"></script>
+    <script src="./website_files/jquery.fittext.js"></script>
+    <script src="./website_files/wow.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="./website_files/creative.js"></script>
+
+
+
+
+</body></html>
