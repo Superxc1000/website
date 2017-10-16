@@ -1,4 +1,4 @@
-## Gregory P. Winter
+# Gregory P. Winter
 ## Analyzing data to make better and informed business decisions
 
 You can use the [editor on GitHub](https://github.com/Superxc1000/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
