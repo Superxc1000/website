@@ -35,4 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Having trouble with Pages? Check out our [Email](gregorypwinter@gmail.com) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email me: <a href="mailto:gregorypwinter@gmail.com">gregorypwinter@gmail.com</a> or [contact support](https://github.com/contact) and we’ll help you sort it out.
